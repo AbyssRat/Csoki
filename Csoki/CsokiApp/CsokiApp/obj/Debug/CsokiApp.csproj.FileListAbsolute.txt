@@ -1,0 +1,11 @@
+C:\Users\moldor609\OneDrive - BGaSzC Logisztikai és Kereskedelmi Technikum és Szakiskola\Asztal\Csoki\CsokiApp\CsokiApp\bin\Debug\CsokiApp.exe.config
+C:\Users\moldor609\OneDrive - BGaSzC Logisztikai és Kereskedelmi Technikum és Szakiskola\Asztal\Csoki\CsokiApp\CsokiApp\bin\Debug\CsokiApp.exe
+C:\Users\moldor609\OneDrive - BGaSzC Logisztikai és Kereskedelmi Technikum és Szakiskola\Asztal\Csoki\CsokiApp\CsokiApp\bin\Debug\CsokiApp.pdb
+C:\Users\moldor609\OneDrive - BGaSzC Logisztikai és Kereskedelmi Technikum és Szakiskola\Asztal\Csoki\CsokiApp\CsokiApp\obj\Debug\CsokiApp.csproj.AssemblyReference.cache
+C:\Users\moldor609\OneDrive - BGaSzC Logisztikai és Kereskedelmi Technikum és Szakiskola\Asztal\Csoki\CsokiApp\CsokiApp\obj\Debug\CsokiApp.FormAdatbevitel.resources
+C:\Users\moldor609\OneDrive - BGaSzC Logisztikai és Kereskedelmi Technikum és Szakiskola\Asztal\Csoki\CsokiApp\CsokiApp\obj\Debug\CsokiApp.FormMain.resources
+C:\Users\moldor609\OneDrive - BGaSzC Logisztikai és Kereskedelmi Technikum és Szakiskola\Asztal\Csoki\CsokiApp\CsokiApp\obj\Debug\CsokiApp.Properties.Resources.resources
+C:\Users\moldor609\OneDrive - BGaSzC Logisztikai és Kereskedelmi Technikum és Szakiskola\Asztal\Csoki\CsokiApp\CsokiApp\obj\Debug\CsokiApp.csproj.GenerateResource.cache
+C:\Users\moldor609\OneDrive - BGaSzC Logisztikai és Kereskedelmi Technikum és Szakiskola\Asztal\Csoki\CsokiApp\CsokiApp\obj\Debug\CsokiApp.csproj.CoreCompileInputs.cache
+C:\Users\moldor609\OneDrive - BGaSzC Logisztikai és Kereskedelmi Technikum és Szakiskola\Asztal\Csoki\CsokiApp\CsokiApp\obj\Debug\CsokiApp.exe
+C:\Users\moldor609\OneDrive - BGaSzC Logisztikai és Kereskedelmi Technikum és Szakiskola\Asztal\Csoki\CsokiApp\CsokiApp\obj\Debug\CsokiApp.pdb
